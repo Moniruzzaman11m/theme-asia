@@ -1,0 +1,162 @@
+
+
+@media screen and (min-width:0px) and (max-width:576px){
+    #footer-section .sm-device{
+        margin-top: 70px;
+    }
+    #top-header .login button{
+        float: right;
+    }
+    #short-brief-of-services .protlolio-wraper .protfolio-content {       
+        height: 268px;
+    }
+    #Sample-Images-of-Combined-Services .protlolio-wraper .protfolio-content {      
+        width: 93.1%;
+    }
+    #top-header .display-none-class{
+        display: none;
+    }
+    #top-header .register button {
+        margin-left: -27px;
+    }
+    #navigation-section .navbar {
+        padding: 30px;
+    }
+    #navigation-section .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 36px;
+        background: #F8F9FA;
+    }
+    #header-down-area .right-content-area{
+        float: none !important;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:768px){
+    #marketplace-section{
+        height: 700px !important;
+    }
+    #copy-write-section .copywrite-content{
+        text-align: center;
+    }
+    #copy-write-section .copywrite-menu{
+        text-align: center;
+    }
+    #top-header .register button {
+        margin-left: 6px !important;
+    }
+    #short-brief-of-services .protlolio-wraper .protfolio-content {       
+        width: 92.6%;
+        height: 251px;
+    }
+    #top-header .display-none-class{
+        display: none;
+    }
+    #navigation-section .navbar {
+        padding: 30px;
+    }
+    #navigation-section .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 36px;
+        background: #F8F9FA;
+    }
+    #header-down-area .right-content-area{
+        float: none !important;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    #Sample-Images-of-Combined-Services .protlolio-wraper .protfolio-content {
+        width: 92.7%;
+    }
+    
+}
+@media screen and (min-width:768px) and (max-width:992px){
+    #vedio-section .content-area {
+        margin-bottom: 50px;
+    }
+    #what-we-do .content-area.bg-1,#what-we-do .content-area.bg-2,#what-we-do .content-area.bg-3,#what-we-do .content-area.bg-4{
+        margin-top: 20px;
+    } 
+    #services-down-section .content-area{
+        margin-top: 20px;
+    }
+    #why-chose-section .content-area{
+        margin-top: 20px;
+    }
+    #price-mater .image{
+        margin-bottom: 30px;
+    }
+    #marketplace-section{
+        height: 586px;
+    }
+    #footer-section .content-area .bg-area {
+        margin-left: 5px;
+    }
+    #footer-section .content-area .bg-area img {
+        padding: 23px 0px;
+    }
+    #top-header .display-none-class{
+        display: none;
+    }
+    
+    #navigation-section .navbar {
+        padding: 30px;
+    }
+    #navigation-section .navbar-expand-lg .navbar-nav .nav-link {
+        line-height: 36px;
+        background: #F8F9FA;
+    }
+    #short-brief-of-services .protlolio-wraper .protfolio-content {
+        width: 88.6%;
+        height: 160px;
+    }
+    #Sample-Images-of-Combined-Services .protlolio-wraper .protfolio-content {      
+        width: 88.8%;
+    }
+    #top-header .register button {
+        margin-left: -69px;
+    }
+    #header-down-area .right-content-area{
+        float: none !important;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    #Sample-Images-of-Combined-Services .protlolio-wraper .protfolio-content {
+        width: 89.3%;
+    }
+    #blog-main-section .right-content-area .search-option .form-control {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1200px){
+    #header-down-area .left-content-area{
+        text-align: center;
+    }
+    #header-down-area .right-content-area{
+        float: none !important;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    #top-header .register button{
+        margin-left: -27px;
+    }
+    #short-brief-of-services .protlolio-wraper .protfolio-content {       
+        width: 91.6%;
+        height: 220px;
+    }
+    #Sample-Images-of-Combined-Services .protlolio-wraper .protfolio-content {      
+        width: 87.6%;
+        left: 19px;
+    }
+    #Few-Steps-Ahead .header .fa {
+        margin-top: 48%;
+    }
+    #blog-main-section .right-content-area .search-option .form-control {
+        width: 87%;
+    }
+}
+
+
+

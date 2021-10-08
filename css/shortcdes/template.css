@@ -1,0 +1,102 @@
+#template-main-section{
+    padding-top: 45px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 45px;
+    overflow-x: hidden;
+    display: block;
+}
+#template-main-section h2{
+    float: left;
+    color: #53676f;
+    font-weight: 600;
+    line-height: 42px;
+}
+#template-main-section .form-control {
+	width: 84%;
+	padding: 10px 10px;
+	float: left;
+}
+#template-main-section .form-grop .fa {
+	background: #00AEEF;
+	padding: 15px 35px;
+	margin-left: -2px;
+	cursor: pointer;
+    color: #fff;
+    transition: all .3s ease-in-out;
+}
+#template-main-section .form-grop .fa:hover{
+    background: #203C48;
+}
+
+#template-main-area .main-content .protfolio-content .btn {
+	top: 40%;
+	left: 25%;
+	transform: translate(-44%,-20%);
+	color: #fff;
+}
+#template-main-area .main-content .protfolio-content .btn{
+    padding: 7px 20px;
+}
+
+#template-main-area .main-content{
+	box-shadow: 0 0 32px #d9dbdc;
+
+}
+
+#template-main-area .main-content h3 a {
+	font-size: 18px;
+	line-height: 26px;
+	margin-bottom: 2px;
+	font-weight: 600;
+	color: #3c3d5d;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	text-decoration: none;
+	display: block;
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+	padding: 2px 5px;
+	transition: all .3s ease-in-out;
+}
+#template-main-area .main-content h3 a:hover{
+	color: #00AEEF;
+}
+#template-main-area .main-content p {
+	line-height: 26px;
+	font-size: 13px;
+	-webkit-line-clamp: 2;
+	-moz-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	-moz-box-orient: vertical;
+	-o-text-overflow: ellipsis;
+	-o-moz-overflow: ellipsis;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	display: -webkit-box;
+	padding: 0px 5px;
+}
+#template-main-area .main-content .second-content {
+	padding: 8px 12px;
+	border-top: 1px solid #e1f1f1;
+	margin-top: 7px;
+}
+#template-main-area .main-content .second-content .right-border{
+	border-right: 1px solid #a8e4fb;
+}
+#template-main-area .main-content .second-content .fa {
+	text-align: center;
+	display: block;
+	font-size: 20px;
+	color: #FF6260;
+}
+#template-main-area .main-content .second-content .text {
+	text-align: center;
+	font-size: 10px;
+	color: #FF6260;
+}
+#template-main-area .main-content .second-content .text span{
+	font-size: 20px;
+}

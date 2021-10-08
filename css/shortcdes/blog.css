@@ -1,0 +1,63 @@
+
+#blog-main-section .content-area{
+	box-shadow: 0 0 32px #d9dbdc;
+	width: 100%;
+	height: 100%;
+}
+#blog-main-section .content-area a h3 {
+	text-decoration: none;
+	font-size: 24px;
+	-o-text-overflow: ellipsis;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	display: block;
+	color: #3c3d5d;
+	font-weight: 600;
+	margin-bottom: 12px;
+	-webkit-transition: .3s;
+	-o-transition: .3s;
+	transition: .3s;
+	padding: 0px 5px;
+}
+#blog-main-section .content-area p {
+	font-size: 15px;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	display: -webkit-box;
+	overflow: hidden;
+    line-height: 26px;
+	padding: 0px 5px;
+	margin-bottom: 5px;
+}
+#blog-main-section .content-area h4 {
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 0px;
+	border-top: 1px solid #e1f1f1;
+}
+#blog-main-section .content-area h4 span {
+	padding: 0px 18px;
+}
+#blog-main-section .recent-post h2 {
+	border-bottom: 1px solid #e1f1f1;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+	padding: 5px 0px;
+}
+#blog-main-section .recent-post ul{
+    padding: 0;
+    list-style-type: none;
+}
+#blog-main-section .recent-post ul li a {
+	display: block;
+	font-size: 16px;
+	color: #000;
+	transition: all .3s ease-in-out;
+	line-height: 27px;
+}
+#blog-main-section .recent-post ul li a:hover {
+    color: red;
+    text-decoration: underline;
+}
